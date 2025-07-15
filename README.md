@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="ccam-logo.png" alt="CCAM Logo" width="300">
+</p>
+
+# Crew Chief Auto Manager (CCAM)
+
+
 # EWSimTools: Crew Chief Auto Manager v1.0  
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)  
