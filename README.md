@@ -1,8 +1,6 @@
-==============================================
 EWSimTools: Crew Chief Auto Manager v1.0
 Developed by Elliott Williams
 www.instagram.com/ewsimracing
-==============================================
 
 This tool automatically starts and closes Crew Chief when you run supported racing sims...
 
@@ -27,8 +25,5 @@ To remove CrewChief Auto Manager from your system:
 
 That’s it. You can now delete the folder if you no longer need it.
 
-==============================================
 Tool by EWSimRacing – Building tools for the sim racing community.
 Follow updates: www.instagram.com/ewsimracing
-==============================================
-
