@@ -27,3 +27,5 @@ That’s it. You can now delete the folder if you no longer need it.
 
 Tool by EWSimRacing – Building tools for the sim racing community.
 Follow updates: www.instagram.com/ewsimracing
+
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
