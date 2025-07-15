@@ -13,15 +13,15 @@ Crew Chief Auto Manager automatically starts and closes Crew Chief when you run 
 - Closes Crew Chief when you exit  
 - Runs silently in the background  
 
-Supported sims so far:  
-- iRacing   
-- AUTOMOBILSTA 2   
-- Assetto Corsa
-- Assetto Corsa Competizione
-- Assetto Corsa Evo
-- RFactor 2
-- Race Room Experience   
-- Le Mans Ultimate   
+**Currently supported sims:**  
+- iRacing  
+- Automobilista 2  
+- Assetto Corsa  
+- Assetto Corsa Competizione  
+- Assetto Corsa Evo  
+- rFactor 2  
+- RaceRoom Racing Experience  
+- Le Mans Ultimate  
 
 ---
 
@@ -29,8 +29,8 @@ Supported sims so far:
 
 1. Download and unzip this folder anywhere on your PC (for example: `C:\CrewChiefAutoManager`).  
 2. Double-click `Install.bat`.  
-3. Accept the prompt to allow PowerShell to make changes.
-4. A scheduled task will be created that monitors the above Si Racing games and will launch CCAM.
+3. Accept the prompt to allow PowerShell to make changes.  
+4. A scheduled task will be created that monitors the supported racing sims and launches Crew Chief when needed.  
 
 After installation, Crew Chief will automatically start and stop when you race.  
 
@@ -40,10 +40,10 @@ After installation, Crew Chief will automatically start and stop when you race.
 
 To remove Crew Chief Auto Manager from your system:  
 
-1. Go to the folder where you unzipped the tool  
-2. Double-click `Uninstall.bat`  
-3. Approve the admin prompt  
-4. The scheduled task and log file will be removed automatically  
+1. Go to the folder where you unzipped the tool.  
+2. Double-click `Uninstall.bat`.  
+3. Approve the admin prompt.  
+4. The scheduled task and log file will be removed automatically.  
 
 You can now safely delete the folder.  
 
