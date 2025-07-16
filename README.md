@@ -2,7 +2,7 @@
   <img src="ccam-logo.png" alt="CCAM Logo" width="300">
 </p>
 
-# Crew Chief Auto Manager (CCAM)
+# Crew Chief App Manager (CCAM)
 
 
 # EWSimTools: Crew Chief App Manager v1.0  
