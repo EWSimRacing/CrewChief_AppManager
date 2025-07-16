@@ -1,14 +1,14 @@
-# Install_CrewChief_AutoManager.ps1
+# Install_CrewChief_AppManager.ps1
 
-$taskName = "CrewChief Auto Manager"
+$taskName = "CrewChief App Manager"
 
 # Get the current folder (assuming the script is in same folder)
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
-$scriptPath = Join-Path $scriptDir "CrewChief_AutoManager.ps1"
+$scriptPath = Join-Path $scriptDir "CrewChief_AppManager.ps1"
 
 # Sanity check
 if (-not (Test-Path $scriptPath)) {
-    Write-Host "Could not find CrewChief_AutoManager.ps1 in the same folder. Please make sure it's placed next to this installer script."
+    Write-Host "Could not find CrewChief_AppManager.ps1 in the same folder. Please make sure it's placed next to this installer script."
     exit 1
 }
 
@@ -27,6 +27,6 @@ Register-ScheduledTask -Action $action -Trigger $trigger -TaskName $taskName -Se
 # Start the task immediately
 Start-ScheduledTask -TaskName $taskName
 Write-Host "Task '$taskName' created successfully."
-Write-Host "CrewChief_AutoManager.ps1 will now launch automatically at login."
+Write-Host "CrewChief_AppManager.ps1 will now launch automatically at login."
 
 
