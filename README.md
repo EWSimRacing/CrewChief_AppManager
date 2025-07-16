@@ -5,7 +5,7 @@
 # Crew Chief Auto Manager (CCAM)
 
 
-# EWSimTools: Crew Chief Auto Manager v1.0  
+# EWSimTools: Crew Chief App Manager v1.0  
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)  
 A lightweight automation tool for sim racers, developed by [Elliott Williams](https://www.instagram.com/ewsimracing).  
@@ -13,7 +13,7 @@ A lightweight automation tool for sim racers, developed by [Elliott Williams](ht
 ---
 
 ## What is this?  
-Crew Chief Auto Manager automatically starts and closes Crew Chief when you run supported racing sims—no extra clicks, no background clutter.  
+Crew Chief App Manager automatically starts and closes Crew Chief when you run supported racing sims—no extra clicks, no background clutter.  
 
 - Detects your sim when it launches  
 - Auto-starts Crew Chief  
@@ -34,7 +34,7 @@ Crew Chief Auto Manager automatically starts and closes Crew Chief when you run 
 
 ## Installation  
 
-1. Download and unzip this folder anywhere on your PC (for example: `C:\CrewChiefAutoManager`).  
+1. Download and unzip this folder anywhere on your PC (for example: `C:\CrewChiefAppManager`).  
 2. Double-click `Install.bat`.  
 3. Accept the prompt to allow PowerShell to make changes.  
 4. A scheduled task will be created that monitors the supported racing sims and launches Crew Chief when needed.  
@@ -45,7 +45,7 @@ After installation, Crew Chief will automatically start and stop when you race.
 
 ## Uninstall Instructions  
 
-To remove Crew Chief Auto Manager from your system:  
+To remove Crew Chief App Manager from your system:  
 
 1. Go to the folder where you unzipped the tool.  
 2. Double-click `Uninstall.bat`.  
