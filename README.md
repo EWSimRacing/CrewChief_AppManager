@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CCAM_logo.png" alt="CCAM Logo" width="300">
+  <img src="CCAM_Logo.png" alt="CCAM Logo" width="300">
 </p>
 
 # Crew Chief App Manager (CCAM)
