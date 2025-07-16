@@ -1,6 +1,6 @@
 <#
 ===============================================
- EWSimTools: Crew Chief Auto Manager v1.0
+ EWSimTools: Crew Chief App Manager v1.0
  Developed by Elliott Williams (@EWSimRacing)
  www.instagram.com/ewsimracing
 ===============================================
