@@ -1,5 +1,5 @@
 :: ===============================================
-:: EWSimTools: Crew Chief Auto Manager v1.0
+:: EWSimTools: Crew Chief App Manager v1.0
 :: Developed by Elliott Williams (@EWSimRacing)
 :: www.instagram.com/ewsimracing
 :: ===============================================
@@ -20,6 +20,6 @@ if %errorlevel% neq 0 (
 SET script_dir=%~dp0
 
 :: Run PowerShell installer
-powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& '%script_dir%Install_CrewChief_AutoManager.ps1'"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "& '%script_dir%Install_CrewChief_AppManager.ps1'"
 
 pause
