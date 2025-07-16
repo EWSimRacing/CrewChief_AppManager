@@ -1,7 +1,7 @@
-# Uninstall_CrewChief_AutoManager.ps1
+# Uninstall_CrewChief_AppManager.ps1
 
-$taskName = "CrewChief Auto Manager"
-$logFile = Join-Path -Path $PSScriptRoot -ChildPath "CrewChief_AutoManager.log"
+$taskName = "CrewChief App Manager"
+$logFile = Join-Path -Path $PSScriptRoot -ChildPath "CrewChief_AppManager.log"
 
 try {
     if (Get-ScheduledTask -TaskName $taskName -ErrorAction SilentlyContinue) {
